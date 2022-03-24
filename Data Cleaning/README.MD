@@ -1,4 +1,4 @@
-# Data Cleaning using MS-SQL Queries
+# Data Cleaning using SQL Queries
 
 ## Summary
 
